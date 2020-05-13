@@ -4,5 +4,7 @@ I was able to make an implementaion, understand it and tweak it to produce a res
 
   
   Click to see the video of a day cycle using the shader:
-[![](http://img.youtube.com/vi/g3La7pcQNGw/0.jpg)](http://www.youtube.com/watch?v=g3La7pcQNGw "Atmospheric Scattering Shader")
-There is more to be done in this project and I will eventually get to it. But for now there are more shaders to be made and more knowledge to be gained.
+
+  [![](http://img.youtube.com/vi/g3La7pcQNGw/0.jpg)](http://www.youtube.com/watch?v=g3La7pcQNGw "Atmospheric Scattering Shader")
+
+  There is more to be done in this project and I will eventually get to it. But for now there are more shaders to be made and more knowledge to be gained.
